@@ -90,6 +90,4 @@ Processing Articles: 100%|██████████████████
 2. **Issue: Script runs but finds no matching articles**
    - Solution: Lower the `fuzzy_match` threshold and TF-IDF similarity threshold.
 
-## Contact & Support
-For issues or enhancements, feel free to reach out or contribute improvements to the script.
 
