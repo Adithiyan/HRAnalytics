@@ -1,5 +1,5 @@
 # JSON to TXT Article Conversion Script
-##THIS IS OUTDATED
+## THIS IS OUTDATED
 ## Overview
 This script processes a JSON file containing articles and filters them based on keywords related to Human Resource Analytics. It then converts the selected articles into TXT files and stores metadata for tracking purposes.
 
