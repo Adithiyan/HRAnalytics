@@ -42,9 +42,12 @@ CONCEPT_KEYWORDS = [
     "evidencebased", "predictive"
 ]
 
+#overwriting the default CONCEPT_KEYWORDS with a more specific set
+CONCEPT_KEYWORDS = [
+    "analytic", "analytics",
+]
 
-def keyword_match(topic_word_lists, concept_keywords=None) -> bool:
-    target_keywords = {"analytic", "analytics"}
+def keyword_match(topic_word_lists, concept_keywords=CONCEPT_KEYWORDS) -> bool:
     if not topic_word_lists:
         return False
     if all(isinstance(w, str) for w in topic_word_lists):
@@ -53,7 +56,7 @@ def keyword_match(topic_word_lists, concept_keywords=None) -> bool:
         all_words = {w.lower() for sub in topic_word_lists for w in sub}
     else:
         return False
-    return any(kw in all_words for kw in target_keywords)
+    return any(kw in all_words for kw in concept_keywords)
 
 
 
