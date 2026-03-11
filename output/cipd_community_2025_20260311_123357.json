@@ -1,0 +1,36 @@
+{
+  "source": "CIPD Community Blog",
+  "year": 2025,
+  "total_articles": 2,
+  "generated": "20260311_123357",
+  "articles": [
+    {
+      "url": "https://community.cipd.co.uk/cipd-blogs/b/test/posts/mock-1",
+      "title": "Mock Community Article",
+      "author": "Mock Author",
+      "date": "01 Jan 2025",
+      "year": 2025,
+      "category": "",
+      "tags": [],
+      "description": "Mock description",
+      "summary": "Mock summary",
+      "full_text": "Mock content",
+      "links": [],
+      "directory": "CIPD Community"
+    },
+    {
+      "url": "https://community.cipd.co.uk/cipd-blogs/b/test/posts/mock-2",
+      "title": "Mock Community Article",
+      "author": "Mock Author",
+      "date": "01 Jan 2025",
+      "year": 2025,
+      "category": "",
+      "tags": [],
+      "description": "Mock description",
+      "summary": "Mock summary",
+      "full_text": "Mock content",
+      "links": [],
+      "directory": "CIPD Community"
+    }
+  ]
+}

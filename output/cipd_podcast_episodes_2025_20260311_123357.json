@@ -1,0 +1,28 @@
+{
+  "source": "CIPD Podcast Episodes",
+  "year": 2025,
+  "total_series": 1,
+  "total_episodes": 1,
+  "generated": "20260311_123357",
+  "series": [
+    {
+      "serie_title": "Mock Podcast Series",
+      "serie_link": "https://www.cipd.org/uk/knowledge/podcasts/mock/",
+      "serie_date": "01 Jan 2025",
+      "serie_year": 2025,
+      "serie_description": "Mock series description",
+      "serie_tags": [
+        "Podcast"
+      ],
+      "serie_podcast": [
+        {
+          "podcast_title": "Mock Episode",
+          "podcast_audio_link": "https://example.com/audio",
+          "podcast_duration": "Duration: 10 minutes",
+          "podcast_description": "Mock description",
+          "podcast_transcript": "Mock transcript"
+        }
+      ]
+    }
+  ]
+}

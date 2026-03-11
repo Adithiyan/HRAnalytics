@@ -1,0 +1,43 @@
+# Credentials & session state
+misc/.env
+storage_state.json
+cipd/cookies.pkl
+misc/*cookies*.json
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Large intermediate outputs (not the final results)
+output/
+src/checkpoints/
+article_cache/
+results_2025/
+cipd/output/
+cipd/article_cache/
+cipd/*.json
+cipd/*.txt
+
+# Raw scraped data files at root
+cipd_articles_static_scrape.json
+cipd_article_links_people_management*.json
+scraped_links_*.json
+CIPD_Podcast_data_*.json
+SHRM_articles_*.json
+articles_*.json
+
+# Local test/temp directories
+.pytest_tmp/
+pytest-cache-files-*/
+tests_tmp/
+tests_tmp_probe/
+
+# Legacy topic-model artifacts (kept outside repo history)
+newdata/
+.gitattributes
+
+# Local agent metadata
+.claude/
+CLAUDE.md
