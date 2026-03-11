@@ -34,6 +34,10 @@ pytest-cache-files-*/
 tests_tmp/
 tests_tmp_probe/
 
+# Legacy topic-model artifacts (kept outside repo history)
+newdata/
+.gitattributes
+
 # Local agent metadata
 .claude/
 CLAUDE.md
