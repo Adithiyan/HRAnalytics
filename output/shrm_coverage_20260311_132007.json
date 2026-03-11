@@ -1,0 +1,46 @@
+{
+  "target_year": 2025,
+  "required_sections": [
+    "topics-tools-search",
+    "article-pages"
+  ],
+  "sections": [
+    {
+      "section": "topics-tools-search",
+      "stage": "shrm-link-collector",
+      "status": "covered",
+      "crawled_count": 7414,
+      "year_count": 1067
+    },
+    {
+      "section": "article-pages",
+      "stage": "shrm-article-extractor",
+      "status": "covered",
+      "crawled_count": 7414,
+      "year_count": 1067
+    },
+    {
+      "section": "year-coverage",
+      "stage": "shrm-2025-filter",
+      "status": "covered",
+      "crawled_count": 7414,
+      "year_count": 1067
+    }
+  ],
+  "summary": {
+    "covered": 3,
+    "covered_zero_2025": 0,
+    "missing": 0
+  },
+  "static_parity_evidence": {
+    "start_url": "https://www.shrm.org/topics-tools",
+    "start_url_matches_legacy_and_src": true,
+    "link_selector_parity_ok": true,
+    "article_selector_parity_ok": true,
+    "missing_in_src_link_collector": [],
+    "missing_in_src_article_extractor": [],
+    "missing_in_legacy_link_script": [],
+    "missing_in_legacy_article_script": []
+  },
+  "generated": "20260311_132007"
+}

@@ -1,0 +1,125 @@
+{
+  "target_year": 2025,
+  "required_sections": [
+    "factsheets",
+    "guides",
+    "reports",
+    "tools",
+    "podcasts",
+    "webinars",
+    "case-studies",
+    "evidence-reviews",
+    "bitesize-research",
+    "employment-law",
+    "community-blog",
+    "people-management",
+    "podcast-episodes"
+  ],
+  "sections": [
+    {
+      "section": "factsheets",
+      "stage": "knowledge",
+      "status": "covered",
+      "crawled_count": 83,
+      "year_count": 1
+    },
+    {
+      "section": "guides",
+      "stage": "knowledge",
+      "status": "covered",
+      "crawled_count": 103,
+      "year_count": 1
+    },
+    {
+      "section": "reports",
+      "stage": "knowledge",
+      "status": "covered",
+      "crawled_count": 117,
+      "year_count": 1
+    },
+    {
+      "section": "tools",
+      "stage": "knowledge",
+      "status": "covered",
+      "crawled_count": 25,
+      "year_count": 1
+    },
+    {
+      "section": "podcasts",
+      "stage": "knowledge",
+      "status": "covered",
+      "crawled_count": 97,
+      "year_count": 1
+    },
+    {
+      "section": "webinars",
+      "stage": "knowledge",
+      "status": "covered",
+      "crawled_count": 65,
+      "year_count": 1
+    },
+    {
+      "section": "case-studies",
+      "stage": "knowledge",
+      "status": "covered",
+      "crawled_count": 134,
+      "year_count": 1
+    },
+    {
+      "section": "evidence-reviews",
+      "stage": "knowledge",
+      "status": "covered",
+      "crawled_count": 31,
+      "year_count": 1
+    },
+    {
+      "section": "bitesize-research",
+      "stage": "knowledge",
+      "status": "covered",
+      "crawled_count": 409,
+      "year_count": 1
+    },
+    {
+      "section": "employment-law",
+      "stage": "knowledge",
+      "status": "covered",
+      "crawled_count": 46,
+      "year_count": 1
+    },
+    {
+      "section": "community-blog",
+      "stage": "community",
+      "status": "covered",
+      "crawled_count": 2,
+      "year_count": 2
+    },
+    {
+      "section": "people-management",
+      "stage": "people-management",
+      "status": "covered",
+      "crawled_count": 2,
+      "year_count": 2
+    },
+    {
+      "section": "podcast-episodes",
+      "stage": "podcast-episodes",
+      "status": "covered",
+      "crawled_count": 1,
+      "year_count": 1,
+      "omitted_intentionally": false
+    }
+  ],
+  "summary": {
+    "covered": 13,
+    "covered_zero_2025": 0,
+    "missing": 0
+  },
+  "generated": "20260311_123357",
+  "outputs": {
+    "knowledge": "E:\\Adi\\Work\\RA\\Yao\\main\\output\\cipd_2025_20260311_123357.json",
+    "community": "E:\\Adi\\Work\\RA\\Yao\\main\\output\\cipd_community_2025_20260311_123357.json",
+    "people_management": "E:\\Adi\\Work\\RA\\Yao\\main\\output\\cipd_people_management_2025_20260311_123357.json",
+    "podcast_episodes": "E:\\Adi\\Work\\RA\\Yao\\main\\output\\cipd_podcast_episodes_2025_20260311_123357.json",
+    "dry_run_artifacts": "E:\\Adi\\Work\\RA\\Yao\\main\\output\\dry_run_artifacts\\20260311_123357"
+  }
+}

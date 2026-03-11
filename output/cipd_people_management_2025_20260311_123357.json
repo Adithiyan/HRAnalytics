@@ -1,0 +1,36 @@
+{
+  "source": "People Management",
+  "year": 2025,
+  "total_articles": 2,
+  "generated": "20260311_123357",
+  "articles": [
+    {
+      "url": "https://www.peoplemanagement.co.uk/article/mock-1",
+      "title": "Mock People Management Article",
+      "author": "Mock Author",
+      "date": "01 Jan 2025",
+      "year": 2025,
+      "category": "",
+      "tags": [],
+      "description": "Mock description",
+      "summary": "Mock summary",
+      "full_text": "Mock content",
+      "links": [],
+      "directory": "People Management"
+    },
+    {
+      "url": "https://www.peoplemanagement.co.uk/article/mock-2",
+      "title": "Mock People Management Article",
+      "author": "Mock Author",
+      "date": "01 Jan 2025",
+      "year": 2025,
+      "category": "",
+      "tags": [],
+      "description": "Mock description",
+      "summary": "Mock summary",
+      "full_text": "Mock content",
+      "links": [],
+      "directory": "People Management"
+    }
+  ]
+}
